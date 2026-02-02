@@ -61,7 +61,7 @@ It is ideal for **data analysis, visualization, and business intelligence projec
 ## 📌 Dashboard Explanation
 This dashboard presents a comprehensive analysis of Amazon product sales, customer engagement, and category-wise performance using key metrics and interactive visualizations.
 
-<img width="1000" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/SALES-ANALYSIS-AMAZON-PRODUCTS/blob/main/image/mz1.webp" />
+<img width="1000" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/SALES-ANALYSIS-AMAZON-PRODUCTS/blob/main/image/Screenshot%202026-02-01%20192858.png" />
 
 ---
 
