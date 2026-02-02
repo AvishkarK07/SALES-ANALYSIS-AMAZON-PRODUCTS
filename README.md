@@ -1,11 +1,17 @@
 # SALES-ANALYSIS-AMAZON-PRODUCTS
 
-# 📦 E-Commerce Product Shipment Dataset
+<img width="315" height="250" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/power%20bi.jpeg" />
+
 
 ## 📌 Overview
 This dataset contains detailed information about e-commerce products shipped to Bangladesh, including product categories, pricing, customer reviews, and shipment dates.
 
 It is ideal for **data analysis, visualization, and business intelligence projects**.
+
+---
+
+<H1>Tool Used :</H1>
+<img width="315" height="250" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/power%20bi.jpeg" />
 
 ---
 
