@@ -1,6 +1,6 @@
 # SALES-ANALYSIS-AMAZON-PRODUCTS
 
-<img width="1000" height="600" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/SALES-ANALYSIS-AMAZON-PRODUCTS/blob/main/image/mz1.webp" />
+<img width="1000" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/SALES-ANALYSIS-AMAZON-PRODUCTS/blob/main/image/mz1.webp" />
 
 
 ## 📌 Overview
