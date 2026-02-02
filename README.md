@@ -1,6 +1,6 @@
 # SALES-ANALYSIS-AMAZON-PRODUCTS
 
-<img width="315" height="250" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Power-Bi-Phone_Pay/blob/main/images/power%20bi.jpeg" />
+<img width="315" height="250" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/SALES-ANALYSIS-AMAZON-PRODUCTS/blob/main/image/mz1.webp" />
 
 
 ## 📌 Overview
