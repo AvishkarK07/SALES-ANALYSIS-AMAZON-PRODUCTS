@@ -1,1 +1,59 @@
 # SALES-ANALYSIS-AMAZON-PRODUCTS
+
+# 📦 E-Commerce Product Shipment Dataset
+
+## 📌 Overview
+This dataset contains detailed information about e-commerce products shipped to Bangladesh, including product categories, pricing, customer reviews, and shipment dates.
+
+It is ideal for **data analysis, visualization, and business intelligence projects**.
+
+---
+
+## 📂 Dataset Details
+
+- **Total Records:** 89,082  
+- **Total Columns:** 6  
+- **Data Format:** Excel (.xlsx)  
+- **Domain:** E-Commerce / Retail Analytics  
+
+---
+
+## 🧾 Column Description
+
+| Column Name | Description |
+|------------|------------|
+| **Product Category** | Category of the product (e.g., Audio Video, Accessories) |
+| **Product Description** | Detailed description of the product |
+| **Price(Dollar)** | Product price in USD |
+| **Number of reviews** | Total customer reviews for the product |
+| **Shipment Order Date** | Date when the order was shipped |
+| **Shipment Details** | Destination and shipment-related information |
+
+---
+
+## 🎯 Use Cases
+
+- 📊 Sales & price analysis  
+- ⭐ Customer review trend analysis  
+- 📦 Shipment and order trend analysis  
+- 📈 Dashboard creation (Power BI / Tableau)  
+- 🧠 Business insights & reporting  
+
+---
+
+## 🛠 Tools You Can Use
+
+- Python (Pandas, Matplotlib, Seaborn)
+- Power BI
+- Tableau
+- Excel
+
+---
+
+## 📜 License
+This dataset is intended for **educational and analytical purposes only**.
+
+---
+
+## 🤝 Contribution
+Feel free to fork this repository and use the dataset for learning, analysis, and portfolio projects.
